@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alaincj
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Dart/Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my friend's repos
 - 📫 How to reach me: Alaincruz06@gmail.com
 
 <!---
